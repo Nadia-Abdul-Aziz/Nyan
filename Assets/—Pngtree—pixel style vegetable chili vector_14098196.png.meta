@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e82a23f8fd1846543930f27fbe964b64
+guid: 293674780933e0949b1eda25a61421a2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1508724384894734980
-    second: pixelated-nyan-cat-2fvhnor9105pzhkp_0
+      213: 6862820994347835675
+    second: "\u2014Pngtree\u2014pixel style vegetable chili vector_14098196_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pixelated-nyan-cat-2fvhnor9105pzhkp_0
+      name: "\u2014Pngtree\u2014pixel style vegetable chili vector_14098196_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1146
+        x: 147
+        y: 955
+        width: 2404
+        height: 1162
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7d216e5a2fef0be0800000000000000
-      internalID: -1508724384894734980
+      spriteID: b1122356553ad3f50800000000000000
+      internalID: 6862820994347835675
       vertices: []
       indices: 
       edges: []
